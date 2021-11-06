@@ -8,9 +8,7 @@
     <h1>ALONDRA ORTEGA</h1>
     <nav>
         <ul>
-            <li>
-                <a href="About Me.asp">About Me</a>
-            </li>
+            <li class="AboutMe">About Me</li>
         </ul>
     </nav>
 </body>
